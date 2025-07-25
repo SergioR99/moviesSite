@@ -17,9 +17,9 @@ Esta aplicación demuestra el uso de **Micro Frontends** con **React + Vite**, i
 ---
 
 ## 📁 Estructura del proyecto
- |_host : proyecto principal que orquesta los microfrontends.
- |_movieOne : microfrontend de Rick and Morty.
- |_movieTwo : microfrontend de Harry Potter.
+ - host : proyecto principal que orquesta los microfrontends.
+ - movieOne : microfrontend de Rick and Morty.
+ - movieTwo : microfrontend de Harry Potter.
 
 ## 🚀 ¿Cómo ejecutar el proyecto?
 
